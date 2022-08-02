@@ -1,0 +1,27 @@
+{
+  "name": "hw-18-nosql-social-network-api",
+  "version": "1.0.0",
+  "description": "An API built for a social network web app where users can share their thoughts, react to friends’ thoughts, and create a friend list. Uses Express.js for routing, a MongoDB database, and the Mongoose ODM.",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mschmitzzz/hw-18-NoSQL-Social-Network-API.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mschmitzzz/hw-18-NoSQL-Social-Network-API/issues"
+  },
+  "homepage": "https://github.com/mschmitzzz/hw-18-NoSQL-Social-Network-API#readme",
+  "dependencies": {
+    "dotenv": "^16.0.1",
+    "express": "^4.18.1",
+    "helmet": "^5.1.1",
+    "mongoose": "^6.5.0",
+    "morgan": "^1.10.0",
+    "nodemon": "^2.0.19"
+  }
+}
