@@ -15,6 +15,7 @@ An API built for a social network web app where users can share posts, react to 
 [GitHub Repo](https://github.com/mschmitzzz/hw-18-NoSQL-Social-Network-API)
 
 [Walkthrough Video pt 1](https://drive.google.com/file/d/19di2j1c2TLbVlkIDCOb_B_CCS6qZbHnj/view)
+
 [Walkthrough Video pt 2](https://drive.google.com/file/d/1y6kJGrg26IwOTgnRCe8qAzafaSbwqUox/view)
 
 ## Installation and Usage
